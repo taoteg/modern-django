@@ -1,5 +1,8 @@
 Following these lessons:
 
+Repo:
+https://github.com/djstein/modern-django/tree/master/Part%203
+
 Preface:
 https://medium.com/@djstein/modern-django-preface-a1094033ac79
 
