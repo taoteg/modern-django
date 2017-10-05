@@ -17,3 +17,31 @@ https://medium.com/@djstein/modern-django-part-2-rest-apis-apps-and-django-rest-
 
 Part 3:
 TBD
+
+
+
+References:
+
+= Preface
+
+= Part 0
+
+https://www.ssh.com/ssh/keygen/
+
+= Part 1
+
+= Part 2
+
+= Part 3
+
+http://www.django-rest-framework.org/api-guide/serializers/
+
+https://ccbv.co.uk/
+
+https://docs.djangoproject.com/en/1.10/topics/class-based-views/
+
+http://www.django-rest-framework.org/api-guide/generic-views/
+
+http://www.cdrf.co/
+
+https://docs.python.org/3/library/re.html
